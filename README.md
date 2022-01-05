@@ -4,8 +4,8 @@ An implement of ADA-UGNN in "A Unified View on Graph Neural Networks as Graph Si
 
 Please install the required library by run 
 
-'''bash
+```bash
+
 pip install -r requirements.txt
 
-
-'''
+```
