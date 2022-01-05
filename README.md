@@ -8,7 +8,7 @@ Please install the required modules by
 pip install -r requirements.txt
 ```
 
-To run the code, please firstly configure the settings in </i>config.ini</i> file, then run
+To run the code, please firstly configure the settings in <u><i>config.ini</i></u> file, then run
 
 ```bash
 python ADA_UGNN.PY
